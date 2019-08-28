@@ -1,7 +1,6 @@
-# Project
+# NgCompleteGuideUpdate
 
-This project will be a recipe lister where you would be able to list recipes and their respective ingredients.
-The purpose of the project is to further learn Angular.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
 ## Development server
 
