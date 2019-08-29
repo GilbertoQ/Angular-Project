@@ -6,6 +6,9 @@
 /out-tsc
 # Only exists if Bazel was run
 /bazel-out
+/.firebase
+firebase.json
+.firebaserc
 
 # dependencies
 /node_modules

@@ -3,6 +3,11 @@
 This project will be a recipe lister where you would be able to list recipes and their respective ingredients.
 The purpose of the project is to further learn Angular.
 
+To visit the website click the following link:
+
+ https://angular-project-da37a.firebaseapp.com
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
