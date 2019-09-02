@@ -1,6 +1,6 @@
 # Project
 
-This project will be a recipe lister where you would be able to list recipes and their respective ingredients.
+This project will be a meal lister where you would be able to list meals and their respective ingredients.
 The purpose of the project is to further learn Angular.
 
 To visit the website click the following link:
